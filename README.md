@@ -8,9 +8,10 @@
 - 💬 Ask me about ...
 - 📫 You can reach me at juanc.calvilloj@gmail.com 
 
-My stats:
+## My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbaldi&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnbaldi)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **johnbaldi/johnbaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
