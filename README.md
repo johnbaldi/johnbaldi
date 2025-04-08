@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi, I'm Juan Calvillo but you can call me Cris 👋
+
+- 👀 I’m  interested in fullstack web development
+- 🔭 I’m currently working create solutions in diferents erps systems like Odoo and NetSuite.
+- 🌱 I’m currently learning front end development in React and Python to use in Odoo
+- 👯 I’m looking to collaborate on web site applications and desktop applications.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 You can reach me at juanc.calvilloj@gmail.com 
+
+My stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnbaldi&show_icons=true)
 
 <!--
 **johnbaldi/johnbaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
